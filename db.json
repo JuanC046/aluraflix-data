@@ -5,8 +5,24 @@
             "title": "First Video",
             "category": "Front End",
             "image": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "video": "https://www.youtube.com/watch?v=q0UgClC8md4",
             "description": "This is the first video"
+        },
+        {
+            "id": 2,
+            "title": "Second Video",
+            "category": "Back End",
+            "image": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "description": "This is the second video"
+        },
+        {
+            "id": 3,
+            "title": "Third Video",
+            "category": "Front End",
+            "image": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "description": "This is the third video"
         }
     ]
 }
