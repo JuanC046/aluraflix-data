@@ -2,27 +2,35 @@
     "videos": [
         {
             "id": 1,
-            "title": "First Video",
-            "category": "Front End",
-            "image": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=q0UgClC8md4",
+            "title": "Tutorial de React para principiantes",
+            "category": "Programación",
+            "image": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg",
+            "video": "https://youtu.be/SqcY0GlETPk?si=ItEJGp1zNU6eyFDj",
             "description": "This is the first video"
         },
         {
             "id": 2,
-            "title": "Second Video",
-            "category": "Back End",
-            "image": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "title": "Aprende HTML ahora! curso completo GRATIS desde cero",
+            "category": "Programación",
+            "image": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "video": "https://youtu.be/MJkdaVFHrto?si=lvllSjPYF5AMhJpQ",
             "description": "This is the second video"
         },
         {
             "id": 3,
-            "title": "Third Video",
-            "category": "Front End",
-            "image": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=9bZkp7q19f0",
-            "description": "This is the third video"
+            "title": "Como es un entrenamiento (clase) de Crossfit?",
+            "category": "Deportes",
+            "image": "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "video": "https://youtu.be/8cPQpSS8Tt4?si=OoWopaqbK9_8piYv",
+            "description": "El entrenamiento o clase dura 60 minutos y se divide en 4 partes"
+        },
+        {
+            "id": 4,
+            "title": "🔥¿Qué es PYTHON y para qué SIRVE?",
+            "category": "Programación",
+            "image": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "video": "https://youtu.be/lc5JJTQa4r8?si=xbUXV-HTwIwgXyut",
+            "description": ""
         }
     ]
 }
